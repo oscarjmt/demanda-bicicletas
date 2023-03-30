@@ -1,2 +1,2 @@
-# demanda-bicicletas
-Utilización de métodos numéricos para el análisis de demanda de una rentadora de bicicletas.
+# Análisis de demanda para renta de bicicletas
+En este proyecto utiliza métodos numéricos para resolver dos problemas relacionados con un conjunto de datos de renta de bicicletas en Seúl. El primer tema se enfoca en encontrar una función que describa la demanda de bicicletas en función de la temperatura, y encontrar los extremos de temperatura donde la demanda de bicicletas es aproximadamente cero. Se utilizaron los métodos de bisección, Newton-Raphson y secante para encontrar las raíces de la función encontrada. En el segundo tema, se utilizó el método de mínimos cuadrados para encontrar una función multivariable que represente la demanda de bicicletas.
